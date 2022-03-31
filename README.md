@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @gregs-git
-- 👀 I’m interested in data engineering, roguelikes and space...
-- 🌱 I’m currently learning all things Google Cloud Platform 
-- 💞️ I’m looking to collaborate on the data bits of spacey, radio astronomy or SDR type projects - or videogames in ascii!
+Data Engineer interested in the trade-offs between time, cost, security and accuracy. Into Linux, sdr, crawl and space stuff.
 
 <!---
 gregs-git/gregs-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
